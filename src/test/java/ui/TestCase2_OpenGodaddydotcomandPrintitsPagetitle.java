@@ -22,6 +22,7 @@ public class TestCase2_OpenGodaddydotcomandPrintitsPagetitle {
 		String currentUrl = driver.getCurrentUrl();
 		System.out.println("Current URL: "+currentUrl);
 		
+		
 		driver.quit();
 		
 		
